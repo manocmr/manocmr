@@ -59,5 +59,5 @@
 <br clear="both">
 
 ### Contributions
-<img src="https://raw.githubusercontent.com/manocmr/manocmr/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/manocmr/manocmr/output/github-snake.svg" alt="Snake animation" />
 
