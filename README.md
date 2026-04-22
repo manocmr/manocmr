@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is bano (u can call me mano) and I'm currently a final year student in networking <3 from Mauritania</h2>
+<h2 align="left">Hi 👋 there! im mano and I'm currently a final year student in networking <3 from Mauritania</h2>
 
 ###
 
