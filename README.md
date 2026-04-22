@@ -113,7 +113,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/manocmr/manocmr/output/snake.svg" alt="Snake animation" />
-<img src="https://raw.githubusercontent.com/manocmr/manocmr/output/github-contribution-grid-snake-purple.svg" alt="Snake animation" />
 
 ###
 
