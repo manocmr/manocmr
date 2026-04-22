@@ -42,7 +42,7 @@
 
 ### Connect with me
 <div align="left">
-  <a href="https://discord.com/" target="_blank">
+  <a href="https://discord.com/users/some_one2511" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord" />
   </a>
   <a href="mailto:nomacmr@gmail.com" target="_blank">
